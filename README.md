@@ -3,7 +3,7 @@
 Hello,
 
 On the website "http://automationpractice.com/index.php" I performed 4 automatic tests with Selenium IDE in the Chrome browser concerning:
-1) Register
+1) Sign up
 2) Log in
 3) Placing an order
 4) Navigating the menu along with adding and removing items from the basket
