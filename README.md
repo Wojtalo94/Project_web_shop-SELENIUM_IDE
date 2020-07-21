@@ -9,6 +9,7 @@ On the website "http://automationpractice.com/index.php" I performed 4 automatic
 4) Navigating the menu along with adding and removing items from the basket
 
 In tests, I also used functions like:
+- random numbers generator (return 'mate' + Math.floor(Math.random()*111111111111111111111) + "@gmail.com")
 - store xpath count
 - echo
 - mouse over
